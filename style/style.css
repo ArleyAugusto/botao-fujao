@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Spicy+Rice&family=Sree+Krushnadevaraya&display=swap');
+
+
+
+#conteudo {
+    background: rgb(221, 139, 92);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    text-align: center;
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+h2 {
+    font-family: 'Sree Krushnadevaraya', Courier, monospace;
+    letter-spacing: 2px;
+    
+}
+
+
+
+.bt1 {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    box-shadow: 2px 2px 2px rgb(255, 255, 255);
+ 
+    
+}
+.bt2 {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    box-shadow: 2px 2px 2px rgb(255, 255, 255);
+    
+}
+
+footer {
+    padding: 800px;
+}
